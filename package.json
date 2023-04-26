@@ -1,0 +1,19 @@
+{
+  "name": "vue3-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -C play dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dead-moon/components": "workspace:^",
+    "@dead-moon/theme-chalk": "workspace:^",
+    "@dead-moon/utils": "workspace:^",
+    "typescript": "^5.0.4",
+    "vue": "^3.2.47"
+  }
+}
