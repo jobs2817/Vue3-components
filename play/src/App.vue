@@ -2,9 +2,8 @@
 </script>
 
 <template>
-  <div>vite</div>
+  <el-icon size="20" />
 </template>
 
 <style scoped>
-
 </style>
