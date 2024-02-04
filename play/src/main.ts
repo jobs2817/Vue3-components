@@ -3,9 +3,12 @@ import './style.css'
 import App from './App.vue'
 
 import Icon from '@dead-moon/components/icon'
+import Cascader from '@dead-moon/components/cascader'
+
 
 const plugins = [
-  Icon
+  Icon,
+  Cascader
 ]
 
 const app = createApp(App)
